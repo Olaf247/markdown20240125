@@ -66,3 +66,10 @@ public class Hello{
 [링크텍스트](링크URL) 
 ```
 [daum cafe](https://cafe.daum.net/pcwk "수업자료 cafe")
+
+### 8. 이미지 넣기
+```
+![링크텍스트](링크URL)
+```
+![window 이미지](https://github.com/Olaf247/markdown20240125/blob/main/doc/win.png)
+
