@@ -62,5 +62,7 @@ public class Hello{
 ***
 ----
 ### 7. 하이퍼 링크
-``` [링크텍스트](링크URL) ```
-[daum cafe](https://cafe.daum.net/pcwk)
+```
+[링크텍스트](링크URL) 
+```
+[daum cafe](https://cafe.daum.net/pcwk "수업자료 cafe")
